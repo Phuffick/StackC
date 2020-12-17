@@ -3,7 +3,6 @@
 
 
 int main() {
-
 	Stack st;
 	st.append(1);
 	st.append(2);
